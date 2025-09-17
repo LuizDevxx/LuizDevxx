@@ -1,42 +1,60 @@
-## Olá, Eu sou o Luiz 👋
+# 🧑🏽‍💻 Luiz Ferreira
 
-**Educação**
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – SENAC
-- 📚 Fazendo curso **ProAprofissão** (focado em Kotlin e NoSQL)
+**`Desenvolvedor Mobile & Backend`**
+
+Me chamo **Luiz Ferreira**, tenho 21 anos e sou natural de São Paulo.  
+Atualmente, curso **Análise e Desenvolvimento de Sistemas** no **SENAC** e participo do programa **ProaProfissão**, com foco em **Kotlin e desenvolvimento mobile**.  
+Sou apaixonado por tecnologia e inovação, e utilizo meus projetos para explorar novas ideias, sempre buscando evolução constante e soluções que façam a diferença.  
 
 ---
 
-**Tecnologias & Ferramentas**
-- **Linguagens:** Java ☕ | Kotlin 🤖 | C#  
-- **Bancos de dados:** NoSQL 🗄️ (MongoDB, etc.)  
-- **Ferramentas:** Git | IntelliJ IDEA | Docker | VS Code  
+### 🌐 Contatos
 
-<div>
+<p align="left">
   <a href="https://github.com/LuizDevxx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizDevxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img 
+      alt="GitHub" 
+      title="Meu GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/LuizDevxx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
   </a>
-  <a href="https://github.com/LuizDevxx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDevxx&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="NoSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-</div>
-
----
-
-<div>
-  <a href="https://www.linkedin.com/in/luiz-ferreira2003" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/luiz-ferreira2003">
+    <img 
+      alt="LinkedIn" 
+      title="Meu LinkedIn" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
   <a href="mailto:luiz.jesusferreira2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img 
+      alt="Gmail" 
+      title="Meu Email" 
+      src="https://custom-icon-badges.demolab.com/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"
+    />
   </a>
-</div>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
+<img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg"/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+
+<br/><br/>
+
+---
+
+### 📊 Estatísticas
+
+<img align="left" alt="GitHub Stats" height="200" style="padding-right:10px;" 
+src="https://github-readme-stats.vercel.app/api?username=LuizDevxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img align="left" alt="Top Languages" height="200" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizDevxx&layout=compact&theme=dracula"/>
+
