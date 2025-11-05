@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Mobile & Backend`**
 
-Me chamo **Luiz Ferreira**, tenho 21 anos e sou natural de São Paulo.  
+Me chamo **Luiz Ferreira**, tenho 22 anos e sou natural de São Paulo.  
 Atualmente, curso **Análise e Desenvolvimento de Sistemas** no **SENAC** e participo do programa **ProaProfissão**, com foco em **Kotlin e desenvolvimento mobile**.  
 Sou apaixonado por tecnologia e inovação, e utilizo meus projetos para explorar novas ideias, sempre buscando evolução constante e soluções que façam a diferença.  
 
